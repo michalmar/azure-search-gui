@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\W\\OneDrive - Microsoft\\Code\\PUB-ReditelRoku\\azure-search-knowledge-mining\\02 - Web UI Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\W\\OneDrive - Microsoft\\Code\\PUB-ReditelRoku\\azure-search-knowledge-mining\\02 - Web UI Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\W\\OneDrive - Microsoft\\Code\\PUB-ReditelRoku\\azure-search-knowledge-mining\\02 - Web UI Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+        "projectName": "CognitiveSearch.UI",
+        "projectPath": "C:\\W\\OneDrive - Microsoft\\Code\\PUB-ReditelRoku\\azure-search-knowledge-mining\\02 - Web UI Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+        "packagesPath": "C:\\Users\\mimarusa\\.nuget\\packages\\",
+        "outputPath": "C:\\W\\OneDrive - Microsoft\\Code\\PUB-ReditelRoku\\azure-search-knowledge-mining\\02 - Web UI Template\\CognitiveSearch.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mimarusa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.9, )"
+            },
+            "Microsoft.Azure.Search": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

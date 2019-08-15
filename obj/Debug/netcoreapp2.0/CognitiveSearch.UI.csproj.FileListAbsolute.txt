@@ -1,0 +1,11 @@
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.deps.json
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.json
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.runtimeconfig.dev.json
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\bin\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csprojAssemblyReference.cache
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfoInputs.cache
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.AssemblyInfo.cs
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.dll
+c:\W\OneDrive - Microsoft\Code\PUB-ReditelRoku\azure-search-knowledge-mining\02 - Web UI Template\CognitiveSearch.UI\obj\Debug\netcoreapp2.0\CognitiveSearch.UI.pdb
