@@ -54,6 +54,7 @@ namespace CognitiveSearch.UI
             catch (Exception e)
             {
                 errorMessage = e.Message.ToString();
+                throw e;
             }
         }
 
